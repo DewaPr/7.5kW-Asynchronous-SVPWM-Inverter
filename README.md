@@ -3,7 +3,7 @@
 A comprehensive project for the design and implementation of a 7.5kW, 3-phase asynchronous motor inverter. This project features a robust control system based on Space Vector Pulse Width Modulation (SVPWM) for efficient and precise motor control.
 
 ![Project Image](placeholder.png)
-*(Tip: Later, you can upload a photo of your circuit board or a block diagram and link it here!)*
+*(To Be Added, Please check https://www.linkedin.com/in/dewapramudya/ -> Project for updated image)*
 
 ---
 
