@@ -36,6 +36,9 @@ The firmware is developed using the STM32 HAL libraries in C. The core logic inv
 ## Theory of Operation
 The control system uses SVPWM to reduce THD and optimize bus voltage utilization compared to standard SPWM. The LUT is being used to reduce the computational burden load. It shifted by 120° deg between each phase. These vectors are then used to calculate the appropriate PWM duty cycles for the six inverter switches.
 
+## Demonstration
+more image and testing on my LinkedIn: [dewapramudya](https://linkedin.com/in/dewapramudya)
+
 ## Project Status: **Complete**
 ---
 *Created by Dewa Pramudya, 2025*
