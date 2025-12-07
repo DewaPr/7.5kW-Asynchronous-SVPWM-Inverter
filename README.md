@@ -7,6 +7,12 @@ A comprehensive project for the design and implementation of a 7.5kW, 3-phase as
 ![Project Image 3](https://github.com/DewaPr/7.5kW-Asynchronous-SVPWM-Inverter/blob/main/hardware/Top%203D%20View.png)
 ---
 
+## Testing Videos
+* **[Oled Display Menu and Animation](https://drive.google.com/file/d/196zk_LU3qrTnVa0bu7Tg2ArQ4xEwJxxJ/view?usp=sharing)**
+* **[5.5kW Motor Test](https://drive.google.com/file/d/1r_bZrU09KWDrxriUP1E9t9VGAy4zBFfb/view?usp=sharing)**
+* **[2kW Motor Test](https://drive.google.com/file/d/1NxWLTuFh6kJh0FrpWRb4N4Q4PgMHIbfF/view?usp=sharing)**
+
+
 ## Features
 * **Power Rating:** 7.5 kW
 * **Input Voltage:** 220V-AC, 315V-DC
