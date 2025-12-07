@@ -4,7 +4,7 @@ A comprehensive project for the design and implementation of a 7.5kW, 3-phase as
 
 ![Project Image 1](https://github.com/DewaPr/7.5kW-Asynchronous-SVPWM-Inverter/blob/main/images/Version%202/Inverter%20Controller%20Front%20Left%20View.jpg)
 ![Project Image 2](https://github.com/DewaPr/7.5kW-Asynchronous-SVPWM-Inverter/blob/main/images/Version%202/IGBT%20Power%20Stage.jpg)
-![Project Image 3](https://github.com/DewaPr/7.5kW-Asynchronous-SVPWM-Inverter/blob/main/hardware/Top%203D%20View.png)
+![Project Image 3](https://github.com/DewaPr/7.5kW-Asynchronous-SVPWM-Inverter/blob/main/images/Version%201/5.5kW%20Testing.jpg)
 ---
 
 ## Testing Videos
